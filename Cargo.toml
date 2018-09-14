@@ -1,0 +1,6 @@
+[package]
+name = "zad_59"
+version = "0.1.0"
+authors = ["kyatt"]
+
+[dependencies]
